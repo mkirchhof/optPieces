@@ -1,4 +1,4 @@
-
+﻿
 
 
 
@@ -30,7 +30,7 @@
   <meta name="viewport" content="width=device-width">
   
   <title>optPieces/README.md at master · mkirchhof/optPieces</title>
-    <meta name="description" content="This algorithm finds the best pieces of a fixed length within a long production line regarding multiple quality measurements. Find the technical report here ( http://dx.doi.org/10.17877/DE290R-19935 ). A peer reviewed paper is on its way. - mkirchhof/optPieces">
+    <meta name="description" content="This algorithm finds the best pieces of a fixed length within a long production line regarding multiple quality measurements. Find the technical report here (http://dx.doi.org/10.17877/DE290R-19935). A peer reviewed paper is on its way. - mkirchhof/optPieces">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
