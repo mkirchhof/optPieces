@@ -1,0 +1,6 @@
+"ending" "fct"
+"1" "csv" "ZSW_Schneiden"
+"2" "xlsx" ".xlsx"
+"3" "DAT" "ZSW_Beschichten"
+"4" "Wählen Sie eine Datei aus..." "Dateiformat wählen..."
+"5" "Choose a file..." "Choose format..."
