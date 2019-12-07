@@ -5,6 +5,6 @@ print(sessionInfo())
 
 source("optFunctions.R")
 source("plotPrint.R")
-source("ZSW_userInterface.R")
+source("userInterface.R")
 
 input()
